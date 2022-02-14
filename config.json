@@ -1,12 +1,12 @@
 {
-    "ip": "",
-    "port": "",
-    "name": "katy",
-    "auto-night-skip": "false",
-    "prefix": "",
+    "ip": "MEOSMP.aternos.me",
+    "port": "33417",
+    "name": "doozNUTZ",
+    "auto-night-skip": "true",
+    "prefix": "M",
     "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "register-cmd": "/login doozNUTZ doozNUTZ",
+    "login-cmd": "/login doozNUTZ",
+    "loginmsg": "AMONGUS IS READY",
     "auto-reconnect": "true"
 }
